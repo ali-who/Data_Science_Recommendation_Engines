@@ -15,7 +15,7 @@ The project will be divided into the following tasks
 
 I. Exploratory Data Analysis
 
-Before making recommendations of any kind, I will need to explore the data I are working with for the project. Dive in to see what I can find. There are some basic, required questions to be answered about the data I are working with throughout the rest of the notebook. Use this space to explore, before I dive into the details of I recommendation system in the later sections.
+Before making recommendations of any kind, I will need to explore the data I am working with for the project. Dive in to see what I can find. There are some basic, required questions to be answered about the data I am working with throughout the rest of the notebook.
 
 II. Rank Based Recommendations
 
@@ -27,7 +27,7 @@ In order to build better recommendations for the users of IBM's platform, we cou
 
 IV. Content Based Recommendations
 
-Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using I NLP skills, I might come up with some extremely creative ways to develop a content based recommendation system. I are encouraged to complete a content based recommendation system, but not required to do so to complete this project.
+Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using NLP skills, I might come up with some extremely creative ways to develop a content based recommendation system.
 
 V. Matrix Factorization
 

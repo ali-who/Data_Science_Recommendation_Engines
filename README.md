@@ -32,3 +32,5 @@ Given the amount of content available for each article, there are several differ
 V. Matrix Factorization
 
 Finally, I will complete a machine-learning approach to building recommendations. Using the user-item interactions, I will build out a matrix decomposition. Using I decomposition, I will get an idea of how well I can predict new articles an individual might interact with (spoiler alert - it isn't great). I will finally discuss which methods I might use moving forward, and how I might test how well my recommendations work for engaging users.
+
+This project was completed on: 10/10/23

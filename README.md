@@ -1,14 +1,14 @@
 # Data_Science_Recommendation_Engines
 
 ## Experimental Design Use in Business
-Completing this project helped me understand the role that experiment design and testing can play in product design and development. As well as provided me a solid background in the different types of recommendations that can be provided, how recommendation engines work, and how I can evaluate the quality of a recommendation engine.
+Completing this project helped me understand the role that experiment design and testing can play in product design and development. It also provided me with a solid background in the different types of recommendations that can be provided, how recommendation engines work, and how I can evaluate the quality of a recommendation engine.
 
 # Project Details
 
 ## Introduction
-For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like.
+For this project, I will analyze users' interactions with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like.
 
-In order to determine which articles to show to each user, I will be performing a study of the data available on the IBM Watson Studio platform. I can create I own account to become a part of their community and get a better understanding of their data by creating an account on the platform [here](https://eu-gb.dataplatform.cloud.ibm.com/login?preselect_region=true).
+To determine which articles to show to each user, I will be performing a study of the data available on the IBM Watson Studio platform. I can create my account to become a part of their community and get a better understanding of their data by creating an account on the platform [here](https://eu-gb.dataplatform.cloud.ibm.com/login?preselect_region=true).
 
 ### Tasks
 The project will be divided into the following tasks
@@ -23,12 +23,12 @@ To get started in building recommendations, I will first find the most popular a
 
 III. User-User Based Collaborative Filtering
 
-In order to build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to the similar users. This would be a step in the right direction towards more personal recommendations for the users. I will implement this next.
+To build better recommendations for the users of IBM's platform, we could look at users that are similar in terms of the items they have interacted with. These items could then be recommended to similar users. This would be a step in the right direction towards more personal recommendations for the users. I will implement this next.
 
 IV. Content Based Recommendations
 
-Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using NLP skills, I might come up with some extremely creative ways to develop a content based recommendation system.
+Given the amount of content available for each article, there are several different ways in which someone might choose to implement a content-based recommendations system. Using NLP skills, I might come up with some extremely creative ways to develop a content-based recommendation system.
 
 V. Matrix Factorization
 
-Finally, I will complete a machine learning approach to building recommendations. Using the user-item interactions, I will build out a matrix decomposition. Using I decomposition, I will get an idea of how well I can predict new articles an individual might interact with (spoiler alert - it isn't great). I will finally discuss which methods I might use moving forward, and how I might test how well I recommendations are working for engaging users.
+Finally, I will complete a machine-learning approach to building recommendations. Using the user-item interactions, I will build out a matrix decomposition. Using I decomposition, I will get an idea of how well I can predict new articles an individual might interact with (spoiler alert - it isn't great). I will finally discuss which methods I might use moving forward, and how I might test how well my recommendations work for engaging users.

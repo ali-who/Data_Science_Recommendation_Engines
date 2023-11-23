@@ -1,4 +1,4 @@
-# Data Science Recommendation_Engines
+# Data Science Recommendation Engines
 
 ### Experimental Design Use in Business
 Completing this project helped me understand the role that experiment design and testing can play in product design and development. It also provided me with a solid background in the different types of recommendations that can be provided, how recommendation engines work, and how I can evaluate the quality of a recommendation engine.

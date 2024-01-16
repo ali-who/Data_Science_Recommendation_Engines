@@ -11,7 +11,7 @@ For this project, I will analyze users' interactions with articles on the IBM Wa
 To determine which articles to show to each user, I will be performing a study of the data available on the IBM Watson Studio platform. I can create my account to become a part of their community and get a better understanding of their data by creating an account on the platform [here](https://eu-gb.dataplatform.cloud.ibm.com/login?preselect_region=true).
 
 ### Tasks
-The project will be divided into the following tasks
+The project will be divided into the following tasks:
 
 I. Exploratory Data Analysis
 
@@ -27,7 +27,7 @@ To build better recommendations for the users of IBM's platform, we could look a
 
 IV. Content Based Recommendations
 
-Given the amount of content available for each article, there are several different ways in which someone might choose to implement a content-based recommendations system. Using NLP skills, I might come up with some extremely creative ways to develop a content-based recommendation system.
+Given the amount of content available for each article, there are several different ways in which someone might choose to implement a content-based recommendations system. Using NLP methods there are creative ways to develop a content-based recommendation system. However due to time constraints I did not complete this section as originally hoped.
 
 V. Matrix Factorization
 
